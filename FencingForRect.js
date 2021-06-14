@@ -4,4 +4,4 @@ const FencingForRect=(b,w, numberOfWire, costPerFeet)=>{
     return totalCost;
 
 }
-console.log(`${(FencingForRect(20,30))}`);
+console.log(`Total cost for Fencing is Rs. ${(FencingForRect(40,60,7,12))}`);
