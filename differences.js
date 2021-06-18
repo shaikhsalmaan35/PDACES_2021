@@ -1,4 +1,4 @@
-// var function
+// ----------var function-----------
 function getDataVar(){
     if(true){
         var name="salman";
