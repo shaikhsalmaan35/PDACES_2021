@@ -5,3 +5,4 @@ teamMember = "sam";
 console.log( teamMember);
 }
 // console.log( teamMember);-------var deaclar out ofthe scope----
+
