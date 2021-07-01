@@ -3,3 +3,4 @@ function addme(num1,num2){
     console.log(sum);
 }
 addme(23,75);
+addme(45,45);
