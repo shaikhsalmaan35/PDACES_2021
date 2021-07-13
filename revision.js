@@ -1,3 +1,3 @@
 var teamMember="sam";
 
-console.log(typeof (teamMember));
+console.log( teamMember);
