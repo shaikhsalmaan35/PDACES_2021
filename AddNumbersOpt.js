@@ -4,4 +4,4 @@ function AddNumbersOpt(num1,num2){
 }
 console.log(AddNumbersOpt(3,5));
 
-console.log
+console.log("sum of  given numbers are" + AddNumbersOpt(15,10));
