@@ -7,3 +7,9 @@ strict------not  -->
 Ecma Script
 1. AddNumbers.js
 2. AddNumbersOpt.js
+
+Q.what is a fat arrow function ?
+
+Ans:-  Const GetData=()=>{
+
+}
