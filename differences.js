@@ -1,11 +1,14 @@
-function getData(){
+// var function
+function getDataVar(){
     if(true){
         var name="salman";
     }
     console.log(name);
 }
-getData();
+getDataVar();
 
+
+// ---------------Let function---------
 function GetDataLet(){
     if(true){
         let name="shaikh";
@@ -13,6 +16,8 @@ function GetDataLet(){
     }
 }
 GetDataLet();
+
+// -----------const function------------------
 
 function GetDataConst(){
     if (true){
