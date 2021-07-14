@@ -7,10 +7,18 @@ strict------not  -->
 Ecma Script
 1. AddNumbers.js
 2. AddNumbersOpt.js
-
+---------------------------------------------
 Q.what is a fat arrow function ?
 
 Ans:-  Const GetData=()=>{
 
 }
+-------------------------------------------------
+Venela :-
+Q .-> what is Hoisting?
+ ans :-  console.log(PowerOfNum(25,2));
 
+        function PowerOfNum(base , power) {
+            return base ** power;
+        }
+------------------------------------------------
