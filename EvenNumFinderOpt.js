@@ -1,3 +1,3 @@
-function EvenNumFinderOpt =(num) => num % 2 === 0 ;
+const EvenNumFinderOpt =(num) => num % 2 === 1;
 
-console.log(EvenNumFinderOpt(26));
+console.log(EvenNumFinderOpt (1547));
