@@ -1,3 +1,3 @@
-function EvenNumberFinder(num){
+function EvenNumFinder(num){
 
 }
