@@ -6,4 +6,4 @@ const FencingForAny=(edges,numerOfWire,rate)=>{
     }
     return sum;
 };
-console.log(FencingForAny ([10,15,10,10,10,10,22],5,10));
+console.log(`Cost for fencing is Rs.${FencingForAny ([10,15,10,10,10,10,22],5,10)}`);
