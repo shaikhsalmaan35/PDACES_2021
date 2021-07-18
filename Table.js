@@ -3,4 +3,4 @@ const getTable = (num) => {
     console.log(`${num} X ${i}=${i * num}`);
   }
 };
-getTable(9);
+getTable(17);
