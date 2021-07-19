@@ -7,3 +7,4 @@ const revStr = (str) => {
   return newArr.join(" ");
 };
 console.log(revStr("I AM Fine"));
+console.log(revStr("5 4 3 2 1"));
