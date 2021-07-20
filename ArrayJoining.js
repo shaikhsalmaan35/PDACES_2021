@@ -1,4 +1,9 @@
 const arr1 = ["cat", "mat"];
 
-console.log(arr1);
-// console.log([...arr1]);
+const arr2 = ["fat", "bat"];
+
+console.log([...arr1, ...arr2]);
+
+// const arr1 = ["cat", "mat"];
+
+// console.log(arr1);
