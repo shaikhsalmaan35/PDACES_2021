@@ -1,5 +1,5 @@
 
-const subExists=(str)=>{
+const subExists =(str)=>{
 const arrStr=str.split("");
 console.log(arrStr);
 };
