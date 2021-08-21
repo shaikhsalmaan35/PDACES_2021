@@ -1,12 +1,13 @@
 // ------const use karemge toh over right---Identifier 'getName' has already been declared
-// const getName = (fname, lname) => {
-//   return fname + " " + lname;
-// };
-// const getName = (fname, mname, lname) => {
-//   return fname + " " + mname + " " + lname;
-// };
-// console.log(getName("salman", "shaikh"));
-// console.log(getName("salman", "shaikh", "sam"));
+
+const getName = (fname, lname) => {
+  return fname + " " + lname;
+};
+const getName = (fname, mname, lname) => {
+  return fname + " " + mname + " " + lname;
+};
+console.log(getName("salman", "shaikh"));
+console.log(getName("salman", "shaikh", "sam"));
 
 //-----agar var use karenge toh second function call------
 //-----Answer------1st line :-salman shaikh undefined
