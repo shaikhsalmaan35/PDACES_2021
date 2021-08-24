@@ -14,4 +14,6 @@ const CountsOfChar = (str) => {
 
   return newObj;
 };
-console.log(CountsOfChar("mine of success is dependnon your success"));
+console.log(
+  CountsOfChar("mine of success is dependnon your success 1 2 3 5 4 1 2 5 ")
+);
